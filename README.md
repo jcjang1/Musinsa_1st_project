@@ -13,3 +13,4 @@
   - 추출 데이터를 통해 다양한 graph를 시각화
   
 - 시각화 한 데이터를 토대로 결과 도출
+<img wight="80%" src="https://user-images.githubusercontent.com/95558633/205133780-07bb24f4-d772-4333-b83f-3b0a3342d87b.png"/>
